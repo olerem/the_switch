@@ -1,0 +1,51 @@
+S3150
+    RTL8380M
+S3260
+    RTL8380M
+S3400
+    RTL8382M
+S3410-
+  S3410-24TS-P
+    ARMA9Single-coreCPU,1GHz
+    BCM56150
+    FSOS
+S3700-
+    RTL8382M
+S3900-
+    BCM56150
+S3910-
+  S3910-24TS
+  S3910-48TS
+    ARM A9 Single-Core CPU, 1 GHz
+    Switch: BCM56150
+    OS: FSOS
+S5500-
+    BCM53003
+S5800
+  S5800-48T4S
+    SOC(Dualcore/ARMA53)
+    OS: FSOS
+  S5800-48F4SR
+S5850
+  S5850-24T16S
+  S5850-24T16B
+    NXPLS1023A(A53CPU/Dualcore)
+    OS: FSOS
+S5860
+    ARMA9Single-coreCPU,1GHz
+    BCM56170
+    FSOS
+S5900
+    CPU ??
+    BCM56151
+N8500
+  N8500-48B6C
+    Switch Chip Tomahawk+ BCM56967
+    CPU Intel Broadwell-DE 2.2Ghz 2-core
+  N8000-32Q
+    Trident 2 BCM56850
+    Intel Rangeley C2538
+  N8500-32C
+    Tomahawk BCM56960
+    Intel Rangeley C2538
+

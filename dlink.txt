@@ -1,0 +1,32 @@
+
+dis-100e
+dis-100e-5w
+dis-100e-8w
+dis-100g-10s
+dis-100g-5psw
+dis-100g-5sw
+dis-100g-5w
+dis-100g-6s
+dis-100g-8sw
+dis-100g-8w
+
+dis-200g-12ps
+dis-200g-12s
+	VCOREIII
+	VSC8586?
+	ftp://ftp.dlink.de/dis/dis-200g-12s/driver_software/
+
+dis-300g-12sw
+dis-300g-14psw
+dis-300g-8psw
+
+dis-700-28xs
+	marvell. armada?
+dis-h30-24
+dis-h60-24
+dis-m100g-sw
+dis-n240-48
+dis-n480-48
+dis-s301sx
+dis-s302sx
+dis-s310lx
