@@ -2,46 +2,71 @@ L2+ 10G Ethernet Switch with LCD Touch Screen
 
 GS-5220-24UPL4XV / GS-5220-24UPL4XVR 
 	VSC MIPS
+	€1.617
 GS-5220-24P4XV/GS-5220-24P4XVR
-	
+	€1.480
 GS-5220-16P2XV/GS-5220-16P2XVR
+	843,85 €
 GS-5220-24PL4XV/GS-5220-24PL4XVR
 	VSC MIPS
+	€1.621
 GS-5220-16T2XV/GS-5220-16T2XVR
-
+	$696.00
 
 L2+ 10G Ethernet Switch
 
 XGS-5240-24X2QR
+	1.415,00 €
 GS-5220-20T4C4X/GS-5220-20T4C4XR
+	551,55 € / 441,64€
 GS-5220-24PL4X / GS-5220-24PL4XR
+	681,04€
 GS-5220-16T4S2X/GS-5220-16T4S2XR
-
+	521,41 €
 
 L2+ Multigigabit Ethernet Switch
 
 MGS-5220-8P2X
 	Jaguar2C VSC MIPS (4.9.21-mscc-605b09f)
+	693,00 €
 
 L2+ Stackable Gigabit Ethernet Switch
 
 SGS-5240-24T4X
+	378,00 €
 SGS-5240-20S4C4XR
+	780,00 €
 SGS-5220-24T2X
+	739,00 €
 SGS-5240-24P4X
+	691,00 €
 SGS-5240-48T4X
+	617,00
 SGS-5220-24P2X
+	892,00 €
 SGS-5220-24S2XR
-
+	900,00 €
 
 L2+ Metro Ethernet Switch
 
 MGSW-24160F 
+	552,00 €
 MGSD-10080F
+	349,00 €
 
 L2+ Gigabit Ethernet Switch
 
 WGSW-24040HP / WGSW-24040HP4
+	511,00
 GS-5220-16S8C / GS-5220-16S8CR
+	589,00 €
 WGSW-24040 / WGSW-24040R
+	312,00 €
+	v2
+		/home/joe/project/WGSW24040_betatest/CE_SDK3.42C_PLANET_version_Leon_IGS52264P2T/build/../eCos/packages/hal/mips/vcoreiii/current/src/plf_misc.c
+	v3
+		Vitesse VCore-III
+		Linux version 4.9.21-mscc-605b09f (andrew@planet-linux-sdk-server) (gcc version 6.3.0 (Buildroot 2017.02) )
 GS-5220-8P2T2S
+	no FW
+	355,00 €
