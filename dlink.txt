@@ -22,11 +22,16 @@ dis-300g-8psw
 
 dis-700-28xs
 	marvell. armada?
-dis-h30-24
-dis-h60-24
 dis-m100g-sw
-dis-n240-48
-dis-n480-48
-dis-s301sx
-dis-s302sx
-dis-s310lx
+
+DGS 1210-28ME
+	/home/xumwk/workspace/dgsrelease/28/core/code/customer/dlinkme/defconfig/WS5-DGS-1210-28-E1//config.cfg
+	Linux version 3.6.5-Broadcom Linux (xumwk@xumwk) (gcc version 4.7.2 (Broadcom Linux)
+
+DES-1210-28
+	Rev B:
+		CPU: BCM%04x rev %d at %d MHz
+		bcm5300x_i2c
+		bcm953000_
+		Linux version 2.6.21.7 (weian@I7CentOS) (gcc version 4.0.0 (DENX ELDK 4.1 4.0.0)	
+
